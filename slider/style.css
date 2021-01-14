@@ -1,0 +1,13 @@
+.sol{
+    display: inline-block;
+    float: left;
+}
+
+.sag{
+    display: inline-block;
+    float: right;
+}
+
+.fas{
+    cursor: pointer;
+}
